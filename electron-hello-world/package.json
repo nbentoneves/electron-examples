@@ -1,0 +1,15 @@
+{
+  "name": "electron-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "author": "Nuno Bento",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^19.0.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
